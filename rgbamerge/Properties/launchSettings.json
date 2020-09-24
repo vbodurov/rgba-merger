@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "rgbamerge": {
+      "commandName": "Project",
+      "commandLineArgs": "-r C:\\Temp\\r.jpg -g 10 -b 0 -a C:\\Temp\\a.jpg -o C:\\Temp\\o.png"
+    }
+  }
+}
