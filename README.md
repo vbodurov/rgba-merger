@@ -14,6 +14,8 @@ Output image path is required.
 
 Width and Height for all images must be the same.
 
+Binaries are located in /bin folder
+
 Sample calls:
 
 ```powershell
