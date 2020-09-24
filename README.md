@@ -8,7 +8,11 @@ Parameters:
  * -a - alpha file path or byte number 0 - 255
  * -o - output image path (must end with .png)
 
-At least one input image is required. Output image path is required.
+At least one input image is required. 
+
+Output image path is required.
+
+Width and Height for all images must be the same.
 
 Sample calls:
 
