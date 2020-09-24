@@ -1,8 +1,6 @@
 # rgba-merger
 Command line tool to merge Red Green Blue Alpha channel into a single image
 
-Required .NET Core 3.1 https://dotnet.microsoft.com/download/dotnet-core/3.1
-
 Parameters:
  * -r - red file path or byte number 0 - 255
  * -g - green file path or byte number 0 - 255
@@ -31,3 +29,7 @@ Get Help
 ```powershell
 .\rgbamerge --help
 ```
+
+Binary 1.0.0
+
+https://github.com/vbodurov/rgba-merger/blob/master/bin-archive/bin.1.0.0.zip
