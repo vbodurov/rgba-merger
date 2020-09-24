@@ -16,10 +16,10 @@ Width and Height for all images must be the same.
 
 Sample calls:
 
-```shell
+```powershell
 .\rgbamerge -r C:\Temp\r.jpg -g C:\Temp\g.jpg -b C:\Temp\b.jpg -a C:\Temp\a.jpg -o C:\Temp\o.png
 ```
 
-```shell
+```powershell
 .\rgbamerge -r "C:\Temp\r.jpg" -g 255 -b 0 -a "C:\Temp\a.jpg" -o "C:\Temp\o.png"
 ```
