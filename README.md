@@ -23,3 +23,9 @@ Sample calls:
 ```powershell
 .\rgbamerge -r "C:\Temp\r.jpg" -g 255 -b 0 -a "C:\Temp\a.jpg" -o "C:\Temp\o.png"
 ```
+
+Get Help
+
+```powershell
+.\rgbamerge --help
+```
